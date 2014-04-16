@@ -1,6 +1,6 @@
-# Sublime CSS Snippets
+# Sublime CSS comments
 
-Snippets of CSS comments for Sublime Text 2 based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css).
+Snippets of CSS comments for Sublime Text based on [Idiomatic CSS](https://github.com/necolas/idiomatic-css).
 
 ## How to use
 
@@ -8,7 +8,7 @@ Snippets of CSS comments for Sublime Text 2 based on [Idiomatic CSS](https://git
 
 Navigate to your Sublime Text 2 snippets folder and clone the repository:
 
-`cd C:\Users\userX\AppData\Roaming\Sublime Text 2\Packages\User`
+`cd path\to`
 
 `git clone git@github.com:raphaelfabeni/cssCommentsSnippets.git`
 
@@ -16,6 +16,15 @@ Navigate to your Sublime Text 2 snippets folder and clone the repository:
 
 - Download the *.zip* file.
 - Unzip the files into your Sublime Text snippets folder.
+
+### Examples
+
+#### Multiline comment
+```css
+/*
+ * ${1:comment}
+ */
+```
 
 
 
