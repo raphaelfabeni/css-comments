@@ -4,7 +4,7 @@ Snippets of CSS comments for Sublime Text based on [Idiomatic CSS](https://githu
 
 The only thing you have to do is type _comment_ in your file and the comment options will show up.
 
-Works on `.scss`, `.sass`, `.less` and `.css` files.
+Works on `.scss`, `.sass`, `.less`, `.styl` and `.css` files.
 
 ![CSS comments demo](examples-css-comments.gif "CSS comments demo")
 
